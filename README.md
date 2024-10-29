@@ -57,7 +57,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=jahidrony037&theme=react" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=git-rony&theme=react" />
 </p>
 
 
@@ -66,17 +66,17 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jahidrony037&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=git-rony&theme=react&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidrony037&theme=react&show_icons=true&hide_border=true&layout=compact" alt="jahidrony037's GitHub Stats" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-rony&theme=react&show_icons=true&hide_border=true&layout=compact" alt="git-rony's GitHub Stats" />
 </p>
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jahidrony037&bg_color=252646&color=61dafb&line=33bfe6&point=104450&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-rony&bg_color=252646&color=61dafb&line=33bfe6&point=104450&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 
 
